@@ -9,3 +9,4 @@ reportlab
 skyfield
 pandas
 openai
+fpdf
