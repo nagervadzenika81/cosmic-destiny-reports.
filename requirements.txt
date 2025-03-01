@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+requests
+numpy
+matplotlib
+pillow
+reportlab
+skyfield
+pandas
